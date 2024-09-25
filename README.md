@@ -17,7 +17,7 @@
 
 ### Projects
 
-- 📊 **[Supermarket Sales Analysis](https://github.com/your-username/supermarket-sales-analysis)**  
+- 📊 **[Supermarket Sales Analysis][(https://github.com/SLakmali/Excel-Data-analysis-Project)]**  
   Analyzed a supermarket sales dataset to uncover sales trends, customer behavior, and product performance.
 
 - 📈 **[Other Project Title](https://github.com/your-username/other-project)**  
